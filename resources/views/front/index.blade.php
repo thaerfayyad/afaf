@@ -37,6 +37,7 @@
 
   <!-- Template Main CSS File -->
   <link href="{{ asset('front/assets/css/main.css') }}" rel="stylesheet">
+  <link href="{{ asset('front/assets/css/bootstrap.rtl.min.css') }}" rel="stylesheet">
 
   <!-- =======================================================
   * Template Name: HeroBiz - v2.2.0
@@ -129,7 +130,7 @@
   <!-- ======= Hero Section ======= -->
   <section   class=" " data-bs-ride="carousel" data-bs-interval="  ">
 
-    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+    <div id="carouselExampleIndicators" class="   " data-bs-ride="carousel">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
